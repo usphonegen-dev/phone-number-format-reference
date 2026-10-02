@@ -1,0 +1,13 @@
+{
+  "name": "phone-number-format-reference",
+  "version": "1.0.0",
+  "description": "Country calling codes, national dialing prefixes and mobile number lengths for ~240 regions, generated from libphonenumber metadata.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "devDependencies": {
+    "libphonenumber-js": "1.13.14"
+  }
+}

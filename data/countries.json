@@ -1,0 +1,3493 @@
+[
+  {
+    "iso": "AF",
+    "name_en": "Afghanistan",
+    "name_zh": "阿富汗",
+    "calling_code": "+93",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "070 123 4567",
+    "example_international": "+93 70 123 4567",
+    "example_e164": "+93701234567"
+  },
+  {
+    "iso": "AX",
+    "name_en": "Åland Islands",
+    "name_zh": "奥兰群岛",
+    "calling_code": "+358",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "041 2345678",
+    "example_international": "+358 41 2345678",
+    "example_e164": "+358412345678"
+  },
+  {
+    "iso": "AL",
+    "name_en": "Albania",
+    "name_zh": "阿尔巴尼亚",
+    "calling_code": "+355",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "067 212 3456",
+    "example_international": "+355 67 212 3456",
+    "example_e164": "+355672123456"
+  },
+  {
+    "iso": "DZ",
+    "name_en": "Algeria",
+    "name_zh": "阿尔及利亚",
+    "calling_code": "+213",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0551 23 45 67",
+    "example_international": "+213 551 23 45 67",
+    "example_e164": "+213551234567"
+  },
+  {
+    "iso": "AS",
+    "name_en": "American Samoa",
+    "name_zh": "美属萨摩亚",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(684) 733-1234",
+    "example_international": "+1 684 733 1234",
+    "example_e164": "+16847331234"
+  },
+  {
+    "iso": "AD",
+    "name_en": "Andorra",
+    "name_zh": "安道尔",
+    "calling_code": "+376",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "312 345",
+    "example_international": "+376 312 345",
+    "example_e164": "+376312345"
+  },
+  {
+    "iso": "AO",
+    "name_en": "Angola",
+    "name_zh": "安哥拉",
+    "calling_code": "+244",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "923 123 456",
+    "example_international": "+244 923 123 456",
+    "example_e164": "+244923123456"
+  },
+  {
+    "iso": "AI",
+    "name_en": "Anguilla",
+    "name_zh": "安圭拉",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(264) 235-1234",
+    "example_international": "+1 264 235 1234",
+    "example_e164": "+12642351234"
+  },
+  {
+    "iso": "AG",
+    "name_en": "Antigua & Barbuda",
+    "name_zh": "安提瓜和巴布达",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(268) 464-1234",
+    "example_international": "+1 268 464 1234",
+    "example_e164": "+12684641234"
+  },
+  {
+    "iso": "AR",
+    "name_en": "Argentina",
+    "name_zh": "阿根廷",
+    "calling_code": "+54",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10,
+      11
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "011 15-2345-6789",
+    "example_international": "+54 9 11 2345 6789",
+    "example_e164": "+5491123456789"
+  },
+  {
+    "iso": "AM",
+    "name_en": "Armenia",
+    "name_zh": "亚美尼亚",
+    "calling_code": "+374",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "077 123456",
+    "example_international": "+374 77 123456",
+    "example_e164": "+37477123456"
+  },
+  {
+    "iso": "AW",
+    "name_en": "Aruba",
+    "name_zh": "阿鲁巴",
+    "calling_code": "+297",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "560 1234",
+    "example_international": "+297 560 1234",
+    "example_e164": "+2975601234"
+  },
+  {
+    "iso": "AC",
+    "name_en": "Ascension Island",
+    "name_zh": "阿森松岛",
+    "calling_code": "+247",
+    "national_prefix": "",
+    "mobile_lengths": [
+      5
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "40123",
+    "example_international": "+247 40123",
+    "example_e164": "+24740123"
+  },
+  {
+    "iso": "AU",
+    "name_en": "Australia",
+    "name_zh": "澳大利亚",
+    "calling_code": "+61",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0412 345 678",
+    "example_international": "+61 412 345 678",
+    "example_e164": "+61412345678"
+  },
+  {
+    "iso": "AT",
+    "name_en": "Austria",
+    "name_zh": "奥地利",
+    "calling_code": "+43",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0664 123456",
+    "example_international": "+43 664 123456",
+    "example_e164": "+43664123456"
+  },
+  {
+    "iso": "AZ",
+    "name_en": "Azerbaijan",
+    "name_zh": "阿塞拜疆",
+    "calling_code": "+994",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "040 123 45 67",
+    "example_international": "+994 40 123 45 67",
+    "example_e164": "+994401234567"
+  },
+  {
+    "iso": "BS",
+    "name_en": "Bahamas",
+    "name_zh": "巴哈马",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(242) 359-1234",
+    "example_international": "+1 242 359 1234",
+    "example_e164": "+12423591234"
+  },
+  {
+    "iso": "BH",
+    "name_en": "Bahrain",
+    "name_zh": "巴林",
+    "calling_code": "+973",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "3600 1234",
+    "example_international": "+973 3600 1234",
+    "example_e164": "+97336001234"
+  },
+  {
+    "iso": "BD",
+    "name_en": "Bangladesh",
+    "name_zh": "孟加拉国",
+    "calling_code": "+880",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "01812-345678",
+    "example_international": "+880 1812 345678",
+    "example_e164": "+8801812345678"
+  },
+  {
+    "iso": "BB",
+    "name_en": "Barbados",
+    "name_zh": "巴巴多斯",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(246) 250-1234",
+    "example_international": "+1 246 250 1234",
+    "example_e164": "+12462501234"
+  },
+  {
+    "iso": "BY",
+    "name_en": "Belarus",
+    "name_zh": "白俄罗斯",
+    "calling_code": "+375",
+    "national_prefix": "8",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8 029 491-19-11",
+    "example_international": "+375 29 491 19 11",
+    "example_e164": "+375294911911"
+  },
+  {
+    "iso": "BE",
+    "name_en": "Belgium",
+    "name_zh": "比利时",
+    "calling_code": "+32",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0450 00 12 34",
+    "example_international": "+32 450 00 12 34",
+    "example_e164": "+32450001234"
+  },
+  {
+    "iso": "BZ",
+    "name_en": "Belize",
+    "name_zh": "伯利兹",
+    "calling_code": "+501",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "622-1234",
+    "example_international": "+501 622 1234",
+    "example_e164": "+5016221234"
+  },
+  {
+    "iso": "BJ",
+    "name_en": "Benin",
+    "name_zh": "贝宁",
+    "calling_code": "+229",
+    "national_prefix": "",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "01 95 12 34 56",
+    "example_international": "+229 01 95 12 34 56",
+    "example_e164": "+2290195123456"
+  },
+  {
+    "iso": "BM",
+    "name_en": "Bermuda",
+    "name_zh": "百慕大",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(441) 370-1234",
+    "example_international": "+1 441 370 1234",
+    "example_e164": "+14413701234"
+  },
+  {
+    "iso": "BT",
+    "name_en": "Bhutan",
+    "name_zh": "不丹",
+    "calling_code": "+975",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "17 12 34 56",
+    "example_international": "+975 17 12 34 56",
+    "example_e164": "+97517123456"
+  },
+  {
+    "iso": "BO",
+    "name_en": "Bolivia",
+    "name_zh": "玻利维亚",
+    "calling_code": "+591",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "71234567",
+    "example_international": "+591 71234567",
+    "example_e164": "+59171234567"
+  },
+  {
+    "iso": "BA",
+    "name_en": "Bosnia & Herzegovina",
+    "name_zh": "波斯尼亚和黑塞哥维那",
+    "calling_code": "+387",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "061 123 456",
+    "example_international": "+387 61 123 456",
+    "example_e164": "+38761123456"
+  },
+  {
+    "iso": "BW",
+    "name_en": "Botswana",
+    "name_zh": "博茨瓦纳",
+    "calling_code": "+267",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "71 123 456",
+    "example_international": "+267 71 123 456",
+    "example_e164": "+26771123456"
+  },
+  {
+    "iso": "BR",
+    "name_en": "Brazil",
+    "name_zh": "巴西",
+    "calling_code": "+55",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10,
+      11
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(11) 96123-4567",
+    "example_international": "+55 11 96123 4567",
+    "example_e164": "+5511961234567"
+  },
+  {
+    "iso": "IO",
+    "name_en": "British Indian Ocean Territory",
+    "name_zh": "英属印度洋领地",
+    "calling_code": "+246",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "380 1234",
+    "example_international": "+246 380 1234",
+    "example_e164": "+2463801234"
+  },
+  {
+    "iso": "VG",
+    "name_en": "British Virgin Islands",
+    "name_zh": "英属维尔京群岛",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(284) 300-1234",
+    "example_international": "+1 284 300 1234",
+    "example_e164": "+12843001234"
+  },
+  {
+    "iso": "BN",
+    "name_en": "Brunei",
+    "name_zh": "文莱",
+    "calling_code": "+673",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "712 3456",
+    "example_international": "+673 712 3456",
+    "example_e164": "+6737123456"
+  },
+  {
+    "iso": "BG",
+    "name_en": "Bulgaria",
+    "name_zh": "保加利亚",
+    "calling_code": "+359",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "043 012 345",
+    "example_international": "+359 43 012 345",
+    "example_e164": "+35943012345"
+  },
+  {
+    "iso": "BF",
+    "name_en": "Burkina Faso",
+    "name_zh": "布基纳法索",
+    "calling_code": "+226",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "70 12 34 56",
+    "example_international": "+226 70 12 34 56",
+    "example_e164": "+22670123456"
+  },
+  {
+    "iso": "BI",
+    "name_en": "Burundi",
+    "name_zh": "布隆迪",
+    "calling_code": "+257",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "79 56 12 34",
+    "example_international": "+257 79 56 12 34",
+    "example_e164": "+25779561234"
+  },
+  {
+    "iso": "KH",
+    "name_en": "Cambodia",
+    "name_zh": "柬埔寨",
+    "calling_code": "+855",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "091 234 567",
+    "example_international": "+855 91 234 567",
+    "example_e164": "+85591234567"
+  },
+  {
+    "iso": "CM",
+    "name_en": "Cameroon",
+    "name_zh": "喀麦隆",
+    "calling_code": "+237",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "6 71 23 45 67",
+    "example_international": "+237 6 71 23 45 67",
+    "example_e164": "+237671234567"
+  },
+  {
+    "iso": "CA",
+    "name_en": "Canada",
+    "name_zh": "加拿大",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(506) 234-5678",
+    "example_international": "+1 506 234 5678",
+    "example_e164": "+15062345678"
+  },
+  {
+    "iso": "CV",
+    "name_en": "Cape Verde",
+    "name_zh": "佛得角",
+    "calling_code": "+238",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "991 12 34",
+    "example_international": "+238 991 12 34",
+    "example_e164": "+2389911234"
+  },
+  {
+    "iso": "BQ",
+    "name_en": "Caribbean Netherlands",
+    "name_zh": "荷属加勒比区",
+    "calling_code": "+599",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "318 1234",
+    "example_international": "+599 318 1234",
+    "example_e164": "+5993181234"
+  },
+  {
+    "iso": "KY",
+    "name_en": "Cayman Islands",
+    "name_zh": "开曼群岛",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(345) 323-1234",
+    "example_international": "+1 345 323 1234",
+    "example_e164": "+13453231234"
+  },
+  {
+    "iso": "CF",
+    "name_en": "Central African Republic",
+    "name_zh": "中非共和国",
+    "calling_code": "+236",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "70 01 23 45",
+    "example_international": "+236 70 01 23 45",
+    "example_e164": "+23670012345"
+  },
+  {
+    "iso": "TD",
+    "name_en": "Chad",
+    "name_zh": "乍得",
+    "calling_code": "+235",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "63 01 23 45",
+    "example_international": "+235 63 01 23 45",
+    "example_e164": "+23563012345"
+  },
+  {
+    "iso": "CL",
+    "name_en": "Chile",
+    "name_zh": "智利",
+    "calling_code": "+56",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(2) 2123 4567",
+    "example_international": "+56 2 2123 4567",
+    "example_e164": "+56221234567"
+  },
+  {
+    "iso": "CN",
+    "name_en": "China",
+    "name_zh": "中国",
+    "calling_code": "+86",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      11
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "131 2345 6789",
+    "example_international": "+86 131 2345 6789",
+    "example_e164": "+8613123456789"
+  },
+  {
+    "iso": "CX",
+    "name_en": "Christmas Island",
+    "name_zh": "圣诞岛",
+    "calling_code": "+61",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0412 345 678",
+    "example_international": "+61 412 345 678",
+    "example_e164": "+61412345678"
+  },
+  {
+    "iso": "CC",
+    "name_en": "Cocos (Keeling) Islands",
+    "name_zh": "科科斯（基林）群岛",
+    "calling_code": "+61",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0412 345 678",
+    "example_international": "+61 412 345 678",
+    "example_e164": "+61412345678"
+  },
+  {
+    "iso": "CO",
+    "name_en": "Colombia",
+    "name_zh": "哥伦比亚",
+    "calling_code": "+57",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "321 1234567",
+    "example_international": "+57 321 1234567",
+    "example_e164": "+573211234567"
+  },
+  {
+    "iso": "KM",
+    "name_en": "Comoros",
+    "name_zh": "科摩罗",
+    "calling_code": "+269",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "321 23 45",
+    "example_international": "+269 321 23 45",
+    "example_e164": "+2693212345"
+  },
+  {
+    "iso": "CG",
+    "name_en": "Congo - Brazzaville",
+    "name_zh": "刚果（布）",
+    "calling_code": "+242",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 123 4567",
+    "example_international": "+242 06 123 4567",
+    "example_e164": "+242061234567"
+  },
+  {
+    "iso": "CD",
+    "name_en": "Congo - Kinshasa",
+    "name_zh": "刚果（金）",
+    "calling_code": "+243",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0991 234 567",
+    "example_international": "+243 991 234 567",
+    "example_e164": "+243991234567"
+  },
+  {
+    "iso": "CK",
+    "name_en": "Cook Islands",
+    "name_zh": "库克群岛",
+    "calling_code": "+682",
+    "national_prefix": "",
+    "mobile_lengths": [
+      5
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "71 234",
+    "example_international": "+682 71 234",
+    "example_e164": "+68271234"
+  },
+  {
+    "iso": "CR",
+    "name_en": "Costa Rica",
+    "name_zh": "哥斯达黎加",
+    "calling_code": "+506",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8312 3456",
+    "example_international": "+506 8312 3456",
+    "example_e164": "+50683123456"
+  },
+  {
+    "iso": "CI",
+    "name_en": "Côte d’Ivoire",
+    "name_zh": "科特迪瓦",
+    "calling_code": "+225",
+    "national_prefix": "",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "01 23 45 6789",
+    "example_international": "+225 01 23 45 6789",
+    "example_e164": "+2250123456789"
+  },
+  {
+    "iso": "HR",
+    "name_en": "Croatia",
+    "name_zh": "克罗地亚",
+    "calling_code": "+385",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "092 123 4567",
+    "example_international": "+385 92 123 4567",
+    "example_e164": "+385921234567"
+  },
+  {
+    "iso": "CU",
+    "name_en": "Cuba",
+    "name_zh": "古巴",
+    "calling_code": "+53",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "05 1234567",
+    "example_international": "+53 5 1234567",
+    "example_e164": "+5351234567"
+  },
+  {
+    "iso": "CW",
+    "name_en": "Curaçao",
+    "name_zh": "库拉索",
+    "calling_code": "+599",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "9 518 1234",
+    "example_international": "+599 9 518 1234",
+    "example_e164": "+59995181234"
+  },
+  {
+    "iso": "CY",
+    "name_en": "Cyprus",
+    "name_zh": "塞浦路斯",
+    "calling_code": "+357",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "96 123456",
+    "example_international": "+357 96 123456",
+    "example_e164": "+35796123456"
+  },
+  {
+    "iso": "CZ",
+    "name_en": "Czechia",
+    "name_zh": "捷克",
+    "calling_code": "+420",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "601 123 456",
+    "example_international": "+420 601 123 456",
+    "example_e164": "+420601123456"
+  },
+  {
+    "iso": "DK",
+    "name_en": "Denmark",
+    "name_zh": "丹麦",
+    "calling_code": "+45",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "34 41 23 45",
+    "example_international": "+45 34 41 23 45",
+    "example_e164": "+4534412345"
+  },
+  {
+    "iso": "DJ",
+    "name_en": "Djibouti",
+    "name_zh": "吉布提",
+    "calling_code": "+253",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "77 83 10 01",
+    "example_international": "+253 77 83 10 01",
+    "example_e164": "+25377831001"
+  },
+  {
+    "iso": "DM",
+    "name_en": "Dominica",
+    "name_zh": "多米尼克",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(767) 225-1234",
+    "example_international": "+1 767 225 1234",
+    "example_e164": "+17672251234"
+  },
+  {
+    "iso": "DO",
+    "name_en": "Dominican Republic",
+    "name_zh": "多米尼加共和国",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(809) 234-5678",
+    "example_international": "+1 809 234 5678",
+    "example_e164": "+18092345678"
+  },
+  {
+    "iso": "EC",
+    "name_en": "Ecuador",
+    "name_zh": "厄瓜多尔",
+    "calling_code": "+593",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "099 123 4567",
+    "example_international": "+593 99 123 4567",
+    "example_e164": "+593991234567"
+  },
+  {
+    "iso": "EG",
+    "name_en": "Egypt",
+    "name_zh": "埃及",
+    "calling_code": "+20",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "010 01234567",
+    "example_international": "+20 10 01234567",
+    "example_e164": "+201001234567"
+  },
+  {
+    "iso": "SV",
+    "name_en": "El Salvador",
+    "name_zh": "萨尔瓦多",
+    "calling_code": "+503",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "7012 3456",
+    "example_international": "+503 7012 3456",
+    "example_e164": "+50370123456"
+  },
+  {
+    "iso": "GQ",
+    "name_en": "Equatorial Guinea",
+    "name_zh": "赤道几内亚",
+    "calling_code": "+240",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "222 123 456",
+    "example_international": "+240 222 123 456",
+    "example_e164": "+240222123456"
+  },
+  {
+    "iso": "ER",
+    "name_en": "Eritrea",
+    "name_zh": "厄立特里亚",
+    "calling_code": "+291",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "07 123 456",
+    "example_international": "+291 7 123 456",
+    "example_e164": "+2917123456"
+  },
+  {
+    "iso": "EE",
+    "name_en": "Estonia",
+    "name_zh": "爱沙尼亚",
+    "calling_code": "+372",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "5123 4567",
+    "example_international": "+372 5123 4567",
+    "example_e164": "+37251234567"
+  },
+  {
+    "iso": "SZ",
+    "name_en": "Eswatini",
+    "name_zh": "斯威士兰",
+    "calling_code": "+268",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "7612 3456",
+    "example_international": "+268 7612 3456",
+    "example_e164": "+26876123456"
+  },
+  {
+    "iso": "ET",
+    "name_en": "Ethiopia",
+    "name_zh": "埃塞俄比亚",
+    "calling_code": "+251",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "091 123 4567",
+    "example_international": "+251 91 123 4567",
+    "example_e164": "+251911234567"
+  },
+  {
+    "iso": "FK",
+    "name_en": "Falkland Islands",
+    "name_zh": "福克兰群岛",
+    "calling_code": "+500",
+    "national_prefix": "",
+    "mobile_lengths": [
+      5
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "51234",
+    "example_international": "+500 51234",
+    "example_e164": "+50051234"
+  },
+  {
+    "iso": "FO",
+    "name_en": "Faroe Islands",
+    "name_zh": "法罗群岛",
+    "calling_code": "+298",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "21 12 34",
+    "example_international": "+298 21 12 34",
+    "example_e164": "+298211234"
+  },
+  {
+    "iso": "FJ",
+    "name_en": "Fiji",
+    "name_zh": "斐济",
+    "calling_code": "+679",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "701 2345",
+    "example_international": "+679 701 2345",
+    "example_e164": "+6797012345"
+  },
+  {
+    "iso": "FI",
+    "name_en": "Finland",
+    "name_zh": "芬兰",
+    "calling_code": "+358",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "041 2345678",
+    "example_international": "+358 41 2345678",
+    "example_e164": "+358412345678"
+  },
+  {
+    "iso": "FR",
+    "name_en": "France",
+    "name_zh": "法国",
+    "calling_code": "+33",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 12 34 56 78",
+    "example_international": "+33 6 12 34 56 78",
+    "example_e164": "+33612345678"
+  },
+  {
+    "iso": "GF",
+    "name_en": "French Guiana",
+    "name_zh": "法属圭亚那",
+    "calling_code": "+594",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0694 20 12 34",
+    "example_international": "+594 694 20 12 34",
+    "example_e164": "+594694201234"
+  },
+  {
+    "iso": "PF",
+    "name_en": "French Polynesia",
+    "name_zh": "法属波利尼西亚",
+    "calling_code": "+689",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "87 12 34 56",
+    "example_international": "+689 87 12 34 56",
+    "example_e164": "+68987123456"
+  },
+  {
+    "iso": "GA",
+    "name_en": "Gabon",
+    "name_zh": "加蓬",
+    "calling_code": "+241",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 03 12 34",
+    "example_international": "+241 06 03 12 34",
+    "example_e164": "+24106031234"
+  },
+  {
+    "iso": "GM",
+    "name_en": "Gambia",
+    "name_zh": "冈比亚",
+    "calling_code": "+220",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "301 2345",
+    "example_international": "+220 301 2345",
+    "example_e164": "+2203012345"
+  },
+  {
+    "iso": "GE",
+    "name_en": "Georgia",
+    "name_zh": "格鲁吉亚",
+    "calling_code": "+995",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "555 12 34 56",
+    "example_international": "+995 555 12 34 56",
+    "example_e164": "+995555123456"
+  },
+  {
+    "iso": "DE",
+    "name_en": "Germany",
+    "name_zh": "德国",
+    "calling_code": "+49",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10,
+      11
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "01512 3456789",
+    "example_international": "+49 1512 3456789",
+    "example_e164": "+4915123456789"
+  },
+  {
+    "iso": "GH",
+    "name_en": "Ghana",
+    "name_zh": "加纳",
+    "calling_code": "+233",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "023 123 4567",
+    "example_international": "+233 23 123 4567",
+    "example_e164": "+233231234567"
+  },
+  {
+    "iso": "GI",
+    "name_en": "Gibraltar",
+    "name_zh": "直布罗陀",
+    "calling_code": "+350",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "57123456",
+    "example_international": "+350 57123456",
+    "example_e164": "+35057123456"
+  },
+  {
+    "iso": "GR",
+    "name_en": "Greece",
+    "name_zh": "希腊",
+    "calling_code": "+30",
+    "national_prefix": "",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "691 234 5678",
+    "example_international": "+30 691 234 5678",
+    "example_e164": "+306912345678"
+  },
+  {
+    "iso": "GL",
+    "name_en": "Greenland",
+    "name_zh": "格陵兰",
+    "calling_code": "+299",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "22 12 34",
+    "example_international": "+299 22 12 34",
+    "example_e164": "+299221234"
+  },
+  {
+    "iso": "GD",
+    "name_en": "Grenada",
+    "name_zh": "格林纳达",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(473) 403-1234",
+    "example_international": "+1 473 403 1234",
+    "example_e164": "+14734031234"
+  },
+  {
+    "iso": "GP",
+    "name_en": "Guadeloupe",
+    "name_zh": "瓜德罗普",
+    "calling_code": "+590",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0690 00 12 34",
+    "example_international": "+590 690 00 12 34",
+    "example_e164": "+590690001234"
+  },
+  {
+    "iso": "GU",
+    "name_en": "Guam",
+    "name_zh": "关岛",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(671) 300-1234",
+    "example_international": "+1 671 300 1234",
+    "example_e164": "+16713001234"
+  },
+  {
+    "iso": "GT",
+    "name_en": "Guatemala",
+    "name_zh": "危地马拉",
+    "calling_code": "+502",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "5123 4567",
+    "example_international": "+502 5123 4567",
+    "example_e164": "+50251234567"
+  },
+  {
+    "iso": "GG",
+    "name_en": "Guernsey",
+    "name_zh": "根西岛",
+    "calling_code": "+44",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "07781 123456",
+    "example_international": "+44 7781 123456",
+    "example_e164": "+447781123456"
+  },
+  {
+    "iso": "GN",
+    "name_en": "Guinea",
+    "name_zh": "几内亚",
+    "calling_code": "+224",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "601 12 34 56",
+    "example_international": "+224 601 12 34 56",
+    "example_e164": "+224601123456"
+  },
+  {
+    "iso": "GW",
+    "name_en": "Guinea-Bissau",
+    "name_zh": "几内亚比绍",
+    "calling_code": "+245",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "955 012 345",
+    "example_international": "+245 955 012 345",
+    "example_e164": "+245955012345"
+  },
+  {
+    "iso": "GY",
+    "name_en": "Guyana",
+    "name_zh": "圭亚那",
+    "calling_code": "+592",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "609 1234",
+    "example_international": "+592 609 1234",
+    "example_e164": "+5926091234"
+  },
+  {
+    "iso": "HT",
+    "name_en": "Haiti",
+    "name_zh": "海地",
+    "calling_code": "+509",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "34 10 1234",
+    "example_international": "+509 34 10 1234",
+    "example_e164": "+50934101234"
+  },
+  {
+    "iso": "HN",
+    "name_en": "Honduras",
+    "name_zh": "洪都拉斯",
+    "calling_code": "+504",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "9123-4567",
+    "example_international": "+504 9123 4567",
+    "example_e164": "+50491234567"
+  },
+  {
+    "iso": "HK",
+    "name_en": "Hong Kong SAR China",
+    "name_zh": "中国香港特别行政区",
+    "calling_code": "+852",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "5123 4567",
+    "example_international": "+852 5123 4567",
+    "example_e164": "+85251234567"
+  },
+  {
+    "iso": "HU",
+    "name_en": "Hungary",
+    "name_zh": "匈牙利",
+    "calling_code": "+36",
+    "national_prefix": "06",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 20 123 4567",
+    "example_international": "+36 20 123 4567",
+    "example_e164": "+36201234567"
+  },
+  {
+    "iso": "IS",
+    "name_en": "Iceland",
+    "name_zh": "冰岛",
+    "calling_code": "+354",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "611 1234",
+    "example_international": "+354 611 1234",
+    "example_e164": "+3546111234"
+  },
+  {
+    "iso": "IN",
+    "name_en": "India",
+    "name_zh": "印度",
+    "calling_code": "+91",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "081234 56789",
+    "example_international": "+91 81234 56789",
+    "example_e164": "+918123456789"
+  },
+  {
+    "iso": "ID",
+    "name_en": "Indonesia",
+    "name_zh": "印度尼西亚",
+    "calling_code": "+62",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0812-345-678",
+    "example_international": "+62 812 345 678",
+    "example_e164": "+62812345678"
+  },
+  {
+    "iso": "IR",
+    "name_en": "Iran",
+    "name_zh": "伊朗",
+    "calling_code": "+98",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0912 345 6789",
+    "example_international": "+98 912 345 6789",
+    "example_e164": "+989123456789"
+  },
+  {
+    "iso": "IQ",
+    "name_en": "Iraq",
+    "name_zh": "伊拉克",
+    "calling_code": "+964",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0791 234 5678",
+    "example_international": "+964 791 234 5678",
+    "example_e164": "+9647912345678"
+  },
+  {
+    "iso": "IE",
+    "name_en": "Ireland",
+    "name_zh": "爱尔兰",
+    "calling_code": "+353",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "085 012 3456",
+    "example_international": "+353 85 012 3456",
+    "example_e164": "+353850123456"
+  },
+  {
+    "iso": "IM",
+    "name_en": "Isle of Man",
+    "name_zh": "马恩岛",
+    "calling_code": "+44",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "07924 123456",
+    "example_international": "+44 7924 123456",
+    "example_e164": "+447924123456"
+  },
+  {
+    "iso": "IL",
+    "name_en": "Israel",
+    "name_zh": "以色列",
+    "calling_code": "+972",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "050-234-5678",
+    "example_international": "+972 50 234 5678",
+    "example_e164": "+972502345678"
+  },
+  {
+    "iso": "IT",
+    "name_en": "Italy",
+    "name_zh": "意大利",
+    "calling_code": "+39",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "312 345 6789",
+    "example_international": "+39 312 345 6789",
+    "example_e164": "+393123456789"
+  },
+  {
+    "iso": "JM",
+    "name_en": "Jamaica",
+    "name_zh": "牙买加",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(876) 210-1234",
+    "example_international": "+1 876 210 1234",
+    "example_e164": "+18762101234"
+  },
+  {
+    "iso": "JP",
+    "name_en": "Japan",
+    "name_zh": "日本",
+    "calling_code": "+81",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "090-1234-5678",
+    "example_international": "+81 90 1234 5678",
+    "example_e164": "+819012345678"
+  },
+  {
+    "iso": "JE",
+    "name_en": "Jersey",
+    "name_zh": "泽西岛",
+    "calling_code": "+44",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "07797 712345",
+    "example_international": "+44 7797 712345",
+    "example_e164": "+447797712345"
+  },
+  {
+    "iso": "JO",
+    "name_en": "Jordan",
+    "name_zh": "约旦",
+    "calling_code": "+962",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "07 9012 3456",
+    "example_international": "+962 7 9012 3456",
+    "example_e164": "+962790123456"
+  },
+  {
+    "iso": "KZ",
+    "name_en": "Kazakhstan",
+    "name_zh": "哈萨克斯坦",
+    "calling_code": "+7",
+    "national_prefix": "8",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8 (771) 000 9998",
+    "example_international": "+7 771 000 9998",
+    "example_e164": "+77710009998"
+  },
+  {
+    "iso": "KE",
+    "name_en": "Kenya",
+    "name_zh": "肯尼亚",
+    "calling_code": "+254",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0712 123456",
+    "example_international": "+254 712 123456",
+    "example_e164": "+254712123456"
+  },
+  {
+    "iso": "KI",
+    "name_en": "Kiribati",
+    "name_zh": "基里巴斯",
+    "calling_code": "+686",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "72001234",
+    "example_international": "+686 72001234",
+    "example_e164": "+68672001234"
+  },
+  {
+    "iso": "XK",
+    "name_en": "Kosovo",
+    "name_zh": "科索沃",
+    "calling_code": "+383",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "043 201 234",
+    "example_international": "+383 43 201 234",
+    "example_e164": "+38343201234"
+  },
+  {
+    "iso": "KW",
+    "name_en": "Kuwait",
+    "name_zh": "科威特",
+    "calling_code": "+965",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "500 12345",
+    "example_international": "+965 500 12345",
+    "example_e164": "+96550012345"
+  },
+  {
+    "iso": "KG",
+    "name_en": "Kyrgyzstan",
+    "name_zh": "吉尔吉斯斯坦",
+    "calling_code": "+996",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0700 123 456",
+    "example_international": "+996 700 123 456",
+    "example_e164": "+996700123456"
+  },
+  {
+    "iso": "LA",
+    "name_en": "Laos",
+    "name_zh": "老挝",
+    "calling_code": "+856",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "020 23 123 456",
+    "example_international": "+856 20 23 123 456",
+    "example_e164": "+8562023123456"
+  },
+  {
+    "iso": "LV",
+    "name_en": "Latvia",
+    "name_zh": "拉脱维亚",
+    "calling_code": "+371",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "21 234 567",
+    "example_international": "+371 21 234 567",
+    "example_e164": "+37121234567"
+  },
+  {
+    "iso": "LB",
+    "name_en": "Lebanon",
+    "name_zh": "黎巴嫩",
+    "calling_code": "+961",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "71 123 456",
+    "example_international": "+961 71 123 456",
+    "example_e164": "+96171123456"
+  },
+  {
+    "iso": "LS",
+    "name_en": "Lesotho",
+    "name_zh": "莱索托",
+    "calling_code": "+266",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "5012 3456",
+    "example_international": "+266 5012 3456",
+    "example_e164": "+26650123456"
+  },
+  {
+    "iso": "LR",
+    "name_en": "Liberia",
+    "name_zh": "利比里亚",
+    "calling_code": "+231",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "077 012 3456",
+    "example_international": "+231 77 012 3456",
+    "example_e164": "+231770123456"
+  },
+  {
+    "iso": "LY",
+    "name_en": "Libya",
+    "name_zh": "利比亚",
+    "calling_code": "+218",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "091-2345678",
+    "example_international": "+218 91 2345678",
+    "example_e164": "+218912345678"
+  },
+  {
+    "iso": "LI",
+    "name_en": "Liechtenstein",
+    "name_zh": "列支敦士登",
+    "calling_code": "+423",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "660 234 567",
+    "example_international": "+423 660 234 567",
+    "example_e164": "+423660234567"
+  },
+  {
+    "iso": "LT",
+    "name_en": "Lithuania",
+    "name_zh": "立陶宛",
+    "calling_code": "+370",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(0-612) 34567",
+    "example_international": "+370 612 34567",
+    "example_e164": "+37061234567"
+  },
+  {
+    "iso": "LU",
+    "name_en": "Luxembourg",
+    "name_zh": "卢森堡",
+    "calling_code": "+352",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "628 123 456",
+    "example_international": "+352 628 123 456",
+    "example_e164": "+352628123456"
+  },
+  {
+    "iso": "MO",
+    "name_en": "Macao SAR China",
+    "name_zh": "中国澳门特别行政区",
+    "calling_code": "+853",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "6612 3456",
+    "example_international": "+853 6612 3456",
+    "example_e164": "+85366123456"
+  },
+  {
+    "iso": "MG",
+    "name_en": "Madagascar",
+    "name_zh": "马达加斯加",
+    "calling_code": "+261",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "032 12 345 67",
+    "example_international": "+261 32 12 345 67",
+    "example_e164": "+261321234567"
+  },
+  {
+    "iso": "MW",
+    "name_en": "Malawi",
+    "name_zh": "马拉维",
+    "calling_code": "+265",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0991 23 45 67",
+    "example_international": "+265 991 23 45 67",
+    "example_e164": "+265991234567"
+  },
+  {
+    "iso": "MY",
+    "name_en": "Malaysia",
+    "name_zh": "马来西亚",
+    "calling_code": "+60",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "012-345 6789",
+    "example_international": "+60 12 345 6789",
+    "example_e164": "+60123456789"
+  },
+  {
+    "iso": "MV",
+    "name_en": "Maldives",
+    "name_zh": "马尔代夫",
+    "calling_code": "+960",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "771-2345",
+    "example_international": "+960 771 2345",
+    "example_e164": "+9607712345"
+  },
+  {
+    "iso": "ML",
+    "name_en": "Mali",
+    "name_zh": "马里",
+    "calling_code": "+223",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "65 01 23 45",
+    "example_international": "+223 65 01 23 45",
+    "example_e164": "+22365012345"
+  },
+  {
+    "iso": "MT",
+    "name_en": "Malta",
+    "name_zh": "马耳他",
+    "calling_code": "+356",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "9696 1234",
+    "example_international": "+356 9696 1234",
+    "example_e164": "+35696961234"
+  },
+  {
+    "iso": "MH",
+    "name_en": "Marshall Islands",
+    "name_zh": "马绍尔群岛",
+    "calling_code": "+692",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "235-1234",
+    "example_international": "+692 235 1234",
+    "example_e164": "+6922351234"
+  },
+  {
+    "iso": "MQ",
+    "name_en": "Martinique",
+    "name_zh": "马提尼克",
+    "calling_code": "+596",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0696 20 12 34",
+    "example_international": "+596 696 20 12 34",
+    "example_e164": "+596696201234"
+  },
+  {
+    "iso": "MR",
+    "name_en": "Mauritania",
+    "name_zh": "毛里塔尼亚",
+    "calling_code": "+222",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "22 12 34 56",
+    "example_international": "+222 22 12 34 56",
+    "example_e164": "+22222123456"
+  },
+  {
+    "iso": "MU",
+    "name_en": "Mauritius",
+    "name_zh": "毛里求斯",
+    "calling_code": "+230",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "5251 2345",
+    "example_international": "+230 5251 2345",
+    "example_e164": "+23052512345"
+  },
+  {
+    "iso": "YT",
+    "name_en": "Mayotte",
+    "name_zh": "马约特",
+    "calling_code": "+262",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0639 01 23 45",
+    "example_international": "+262 639 01 23 45",
+    "example_e164": "+262639012345"
+  },
+  {
+    "iso": "MX",
+    "name_en": "Mexico",
+    "name_zh": "墨西哥",
+    "calling_code": "+52",
+    "national_prefix": "",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "222 123 4567",
+    "example_international": "+52 222 123 4567",
+    "example_e164": "+522221234567"
+  },
+  {
+    "iso": "FM",
+    "name_en": "Micronesia",
+    "name_zh": "密克罗尼西亚",
+    "calling_code": "+691",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "350 1234",
+    "example_international": "+691 350 1234",
+    "example_e164": "+6913501234"
+  },
+  {
+    "iso": "MD",
+    "name_en": "Moldova",
+    "name_zh": "摩尔多瓦",
+    "calling_code": "+373",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0621 12 345",
+    "example_international": "+373 621 12 345",
+    "example_e164": "+37362112345"
+  },
+  {
+    "iso": "MC",
+    "name_en": "Monaco",
+    "name_zh": "摩纳哥",
+    "calling_code": "+377",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 12 34 56 78",
+    "example_international": "+377 6 12 34 56 78",
+    "example_e164": "+377612345678"
+  },
+  {
+    "iso": "MN",
+    "name_en": "Mongolia",
+    "name_zh": "蒙古",
+    "calling_code": "+976",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8812 3456",
+    "example_international": "+976 8812 3456",
+    "example_e164": "+97688123456"
+  },
+  {
+    "iso": "ME",
+    "name_en": "Montenegro",
+    "name_zh": "黑山",
+    "calling_code": "+382",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "060 123 456",
+    "example_international": "+382 60 123 456",
+    "example_e164": "+38260123456"
+  },
+  {
+    "iso": "MS",
+    "name_en": "Montserrat",
+    "name_zh": "蒙特塞拉特",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(664) 492-3456",
+    "example_international": "+1 664 492 3456",
+    "example_e164": "+16644923456"
+  },
+  {
+    "iso": "MA",
+    "name_en": "Morocco",
+    "name_zh": "摩洛哥",
+    "calling_code": "+212",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 50 12 34 56",
+    "example_international": "+212 6 50 12 34 56",
+    "example_e164": "+212650123456"
+  },
+  {
+    "iso": "MZ",
+    "name_en": "Mozambique",
+    "name_zh": "莫桑比克",
+    "calling_code": "+258",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "82 123 4567",
+    "example_international": "+258 82 123 4567",
+    "example_e164": "+258821234567"
+  },
+  {
+    "iso": "MM",
+    "name_en": "Myanmar (Burma)",
+    "name_zh": "缅甸",
+    "calling_code": "+95",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "09 212 3456",
+    "example_international": "+95 9 212 3456",
+    "example_e164": "+9592123456"
+  },
+  {
+    "iso": "NA",
+    "name_en": "Namibia",
+    "name_zh": "纳米比亚",
+    "calling_code": "+264",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "081 123 4567",
+    "example_international": "+264 81 123 4567",
+    "example_e164": "+264811234567"
+  },
+  {
+    "iso": "NR",
+    "name_en": "Nauru",
+    "name_zh": "瑙鲁",
+    "calling_code": "+674",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "555 1234",
+    "example_international": "+674 555 1234",
+    "example_e164": "+6745551234"
+  },
+  {
+    "iso": "NP",
+    "name_en": "Nepal",
+    "name_zh": "尼泊尔",
+    "calling_code": "+977",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "984-1234567",
+    "example_international": "+977 984 1234567",
+    "example_e164": "+9779841234567"
+  },
+  {
+    "iso": "NL",
+    "name_en": "Netherlands",
+    "name_zh": "荷兰",
+    "calling_code": "+31",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9,
+      11
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 12345678",
+    "example_international": "+31 6 12345678",
+    "example_e164": "+31612345678"
+  },
+  {
+    "iso": "NC",
+    "name_en": "New Caledonia",
+    "name_zh": "新喀里多尼亚",
+    "calling_code": "+687",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "75.12.34",
+    "example_international": "+687 75 12 34",
+    "example_e164": "+687751234"
+  },
+  {
+    "iso": "NZ",
+    "name_en": "New Zealand",
+    "name_zh": "新西兰",
+    "calling_code": "+64",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "021 123 4567",
+    "example_international": "+64 21 123 4567",
+    "example_e164": "+64211234567"
+  },
+  {
+    "iso": "NI",
+    "name_en": "Nicaragua",
+    "name_zh": "尼加拉瓜",
+    "calling_code": "+505",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8123 4567",
+    "example_international": "+505 8123 4567",
+    "example_e164": "+50581234567"
+  },
+  {
+    "iso": "NE",
+    "name_en": "Niger",
+    "name_zh": "尼日尔",
+    "calling_code": "+227",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "93 12 34 56",
+    "example_international": "+227 93 12 34 56",
+    "example_e164": "+22793123456"
+  },
+  {
+    "iso": "NG",
+    "name_en": "Nigeria",
+    "name_zh": "尼日利亚",
+    "calling_code": "+234",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0802 123 4567",
+    "example_international": "+234 802 123 4567",
+    "example_e164": "+2348021234567"
+  },
+  {
+    "iso": "NU",
+    "name_en": "Niue",
+    "name_zh": "纽埃",
+    "calling_code": "+683",
+    "national_prefix": "",
+    "mobile_lengths": [
+      4,
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "888 4012",
+    "example_international": "+683 888 4012",
+    "example_e164": "+6838884012"
+  },
+  {
+    "iso": "NF",
+    "name_en": "Norfolk Island",
+    "name_zh": "诺福克岛",
+    "calling_code": "+672",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "3 81234",
+    "example_international": "+672 3 81234",
+    "example_e164": "+672381234"
+  },
+  {
+    "iso": "KP",
+    "name_en": "North Korea",
+    "name_zh": "朝鲜",
+    "calling_code": "+850",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0192 123 4567",
+    "example_international": "+850 192 123 4567",
+    "example_e164": "+8501921234567"
+  },
+  {
+    "iso": "MK",
+    "name_en": "North Macedonia",
+    "name_zh": "北马其顿",
+    "calling_code": "+389",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "072 345 678",
+    "example_international": "+389 72 345 678",
+    "example_e164": "+38972345678"
+  },
+  {
+    "iso": "MP",
+    "name_en": "Northern Mariana Islands",
+    "name_zh": "北马里亚纳群岛",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(670) 234-5678",
+    "example_international": "+1 670 234 5678",
+    "example_e164": "+16702345678"
+  },
+  {
+    "iso": "NO",
+    "name_en": "Norway",
+    "name_zh": "挪威",
+    "calling_code": "+47",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "40 61 23 45",
+    "example_international": "+47 40 61 23 45",
+    "example_e164": "+4740612345"
+  },
+  {
+    "iso": "OM",
+    "name_en": "Oman",
+    "name_zh": "阿曼",
+    "calling_code": "+968",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "9212 3456",
+    "example_international": "+968 9212 3456",
+    "example_e164": "+96892123456"
+  },
+  {
+    "iso": "PK",
+    "name_en": "Pakistan",
+    "name_zh": "巴基斯坦",
+    "calling_code": "+92",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0301 2345678",
+    "example_international": "+92 301 2345678",
+    "example_e164": "+923012345678"
+  },
+  {
+    "iso": "PW",
+    "name_en": "Palau",
+    "name_zh": "帕劳",
+    "calling_code": "+680",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "620 1234",
+    "example_international": "+680 620 1234",
+    "example_e164": "+6806201234"
+  },
+  {
+    "iso": "PS",
+    "name_en": "Palestinian Territories",
+    "name_zh": "巴勒斯坦领土",
+    "calling_code": "+970",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0599 123 456",
+    "example_international": "+970 599 123 456",
+    "example_e164": "+970599123456"
+  },
+  {
+    "iso": "PA",
+    "name_en": "Panama",
+    "name_zh": "巴拿马",
+    "calling_code": "+507",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "6123-4567",
+    "example_international": "+507 6123 4567",
+    "example_e164": "+50761234567"
+  },
+  {
+    "iso": "PG",
+    "name_en": "Papua New Guinea",
+    "name_zh": "巴布亚新几内亚",
+    "calling_code": "+675",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "7012 3456",
+    "example_international": "+675 7012 3456",
+    "example_e164": "+67570123456"
+  },
+  {
+    "iso": "PY",
+    "name_en": "Paraguay",
+    "name_zh": "巴拉圭",
+    "calling_code": "+595",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0961 456789",
+    "example_international": "+595 961 456789",
+    "example_e164": "+595961456789"
+  },
+  {
+    "iso": "PE",
+    "name_en": "Peru",
+    "name_zh": "秘鲁",
+    "calling_code": "+51",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "912 345 678",
+    "example_international": "+51 912 345 678",
+    "example_e164": "+51912345678"
+  },
+  {
+    "iso": "PH",
+    "name_en": "Philippines",
+    "name_zh": "菲律宾",
+    "calling_code": "+63",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0905 123 4567",
+    "example_international": "+63 905 123 4567",
+    "example_e164": "+639051234567"
+  },
+  {
+    "iso": "PL",
+    "name_en": "Poland",
+    "name_zh": "波兰",
+    "calling_code": "+48",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "512 345 678",
+    "example_international": "+48 512 345 678",
+    "example_e164": "+48512345678"
+  },
+  {
+    "iso": "PT",
+    "name_en": "Portugal",
+    "name_zh": "葡萄牙",
+    "calling_code": "+351",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "912 345 678",
+    "example_international": "+351 912 345 678",
+    "example_e164": "+351912345678"
+  },
+  {
+    "iso": "PR",
+    "name_en": "Puerto Rico",
+    "name_zh": "波多黎各",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(787) 234-5678",
+    "example_international": "+1 787 234 5678",
+    "example_e164": "+17872345678"
+  },
+  {
+    "iso": "QA",
+    "name_en": "Qatar",
+    "name_zh": "卡塔尔",
+    "calling_code": "+974",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "3312 3456",
+    "example_international": "+974 3312 3456",
+    "example_e164": "+97433123456"
+  },
+  {
+    "iso": "RE",
+    "name_en": "Réunion",
+    "name_zh": "留尼汪",
+    "calling_code": "+262",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0692 12 34 56",
+    "example_international": "+262 692 12 34 56",
+    "example_e164": "+262692123456"
+  },
+  {
+    "iso": "RO",
+    "name_en": "Romania",
+    "name_zh": "罗马尼亚",
+    "calling_code": "+40",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0712 034 567",
+    "example_international": "+40 712 034 567",
+    "example_e164": "+40712034567"
+  },
+  {
+    "iso": "RU",
+    "name_en": "Russia",
+    "name_zh": "俄罗斯",
+    "calling_code": "+7",
+    "national_prefix": "8",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8 (912) 345-67-89",
+    "example_international": "+7 912 345 67 89",
+    "example_e164": "+79123456789"
+  },
+  {
+    "iso": "RW",
+    "name_en": "Rwanda",
+    "name_zh": "卢旺达",
+    "calling_code": "+250",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0720 123 456",
+    "example_international": "+250 720 123 456",
+    "example_e164": "+250720123456"
+  },
+  {
+    "iso": "WS",
+    "name_en": "Samoa",
+    "name_zh": "萨摩亚",
+    "calling_code": "+685",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "72 12345",
+    "example_international": "+685 72 12345",
+    "example_e164": "+6857212345"
+  },
+  {
+    "iso": "SM",
+    "name_en": "San Marino",
+    "name_zh": "圣马力诺",
+    "calling_code": "+378",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "66 66 12 12",
+    "example_international": "+378 66 66 12 12",
+    "example_e164": "+37866661212"
+  },
+  {
+    "iso": "ST",
+    "name_en": "São Tomé & Príncipe",
+    "name_zh": "圣多美和普林西比",
+    "calling_code": "+239",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "981 2345",
+    "example_international": "+239 981 2345",
+    "example_e164": "+2399812345"
+  },
+  {
+    "iso": "SA",
+    "name_en": "Saudi Arabia",
+    "name_zh": "沙特阿拉伯",
+    "calling_code": "+966",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "051 234 5678",
+    "example_international": "+966 51 234 5678",
+    "example_e164": "+966512345678"
+  },
+  {
+    "iso": "SN",
+    "name_en": "Senegal",
+    "name_zh": "塞内加尔",
+    "calling_code": "+221",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "70 123 45 67",
+    "example_international": "+221 70 123 45 67",
+    "example_e164": "+221701234567"
+  },
+  {
+    "iso": "RS",
+    "name_en": "Serbia",
+    "name_zh": "塞尔维亚",
+    "calling_code": "+381",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8,
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "060 1234567",
+    "example_international": "+381 60 1234567",
+    "example_e164": "+381601234567"
+  },
+  {
+    "iso": "SC",
+    "name_en": "Seychelles",
+    "name_zh": "塞舌尔",
+    "calling_code": "+248",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "2 510 123",
+    "example_international": "+248 2 510 123",
+    "example_e164": "+2482510123"
+  },
+  {
+    "iso": "SL",
+    "name_en": "Sierra Leone",
+    "name_zh": "塞拉利昂",
+    "calling_code": "+232",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(025) 123456",
+    "example_international": "+232 25 123456",
+    "example_e164": "+23225123456"
+  },
+  {
+    "iso": "SG",
+    "name_en": "Singapore",
+    "name_zh": "新加坡",
+    "calling_code": "+65",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8123 4567",
+    "example_international": "+65 8123 4567",
+    "example_e164": "+6581234567"
+  },
+  {
+    "iso": "SX",
+    "name_en": "Sint Maarten",
+    "name_zh": "荷属圣马丁",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(721) 520-5678",
+    "example_international": "+1 721 520 5678",
+    "example_e164": "+17215205678"
+  },
+  {
+    "iso": "SK",
+    "name_en": "Slovakia",
+    "name_zh": "斯洛伐克",
+    "calling_code": "+421",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0912 123 456",
+    "example_international": "+421 912 123 456",
+    "example_e164": "+421912123456"
+  },
+  {
+    "iso": "SI",
+    "name_en": "Slovenia",
+    "name_zh": "斯洛文尼亚",
+    "calling_code": "+386",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "031 234 567",
+    "example_international": "+386 31 234 567",
+    "example_e164": "+38631234567"
+  },
+  {
+    "iso": "SB",
+    "name_en": "Solomon Islands",
+    "name_zh": "所罗门群岛",
+    "calling_code": "+677",
+    "national_prefix": "",
+    "mobile_lengths": [
+      5,
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "74 21234",
+    "example_international": "+677 74 21234",
+    "example_e164": "+6777421234"
+  },
+  {
+    "iso": "SO",
+    "name_en": "Somalia",
+    "name_zh": "索马里",
+    "calling_code": "+252",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      7,
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "7 1123456",
+    "example_international": "+252 7 1123456",
+    "example_e164": "+25271123456"
+  },
+  {
+    "iso": "ZA",
+    "name_en": "South Africa",
+    "name_zh": "南非",
+    "calling_code": "+27",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "071 123 4567",
+    "example_international": "+27 71 123 4567",
+    "example_e164": "+27711234567"
+  },
+  {
+    "iso": "KR",
+    "name_en": "South Korea",
+    "name_zh": "韩国",
+    "calling_code": "+82",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "010-2000-0000",
+    "example_international": "+82 10 2000 0000",
+    "example_e164": "+821020000000"
+  },
+  {
+    "iso": "SS",
+    "name_en": "South Sudan",
+    "name_zh": "南苏丹",
+    "calling_code": "+211",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0977 123 456",
+    "example_international": "+211 977 123 456",
+    "example_e164": "+211977123456"
+  },
+  {
+    "iso": "ES",
+    "name_en": "Spain",
+    "name_zh": "西班牙",
+    "calling_code": "+34",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "612 34 56 78",
+    "example_international": "+34 612 34 56 78",
+    "example_e164": "+34612345678"
+  },
+  {
+    "iso": "LK",
+    "name_en": "Sri Lanka",
+    "name_zh": "斯里兰卡",
+    "calling_code": "+94",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "071 234 5678",
+    "example_international": "+94 71 234 5678",
+    "example_e164": "+94712345678"
+  },
+  {
+    "iso": "BL",
+    "name_en": "St. Barthélemy",
+    "name_zh": "圣巴泰勒米",
+    "calling_code": "+590",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0690 00 12 34",
+    "example_international": "+590 690 00 12 34",
+    "example_e164": "+590690001234"
+  },
+  {
+    "iso": "SH",
+    "name_en": "St. Helena",
+    "name_zh": "圣赫勒拿",
+    "calling_code": "+290",
+    "national_prefix": "",
+    "mobile_lengths": [
+      5
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "51234",
+    "example_international": "+290 51234",
+    "example_e164": "+29051234"
+  },
+  {
+    "iso": "KN",
+    "name_en": "St. Kitts & Nevis",
+    "name_zh": "圣基茨和尼维斯",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(869) 765-2917",
+    "example_international": "+1 869 765 2917",
+    "example_e164": "+18697652917"
+  },
+  {
+    "iso": "LC",
+    "name_en": "St. Lucia",
+    "name_zh": "圣卢西亚",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(758) 284-5678",
+    "example_international": "+1 758 284 5678",
+    "example_e164": "+17582845678"
+  },
+  {
+    "iso": "MF",
+    "name_en": "St. Martin",
+    "name_zh": "法属圣马丁",
+    "calling_code": "+590",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0690 00 12 34",
+    "example_international": "+590 690 00 12 34",
+    "example_e164": "+590690001234"
+  },
+  {
+    "iso": "PM",
+    "name_en": "St. Pierre & Miquelon",
+    "name_zh": "圣皮埃尔和密克隆群岛",
+    "calling_code": "+508",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      6,
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "055 12 34",
+    "example_international": "+508 55 12 34",
+    "example_e164": "+508551234"
+  },
+  {
+    "iso": "VC",
+    "name_en": "St. Vincent & Grenadines",
+    "name_zh": "圣文森特和格林纳丁斯",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(784) 430-1234",
+    "example_international": "+1 784 430 1234",
+    "example_e164": "+17844301234"
+  },
+  {
+    "iso": "SD",
+    "name_en": "Sudan",
+    "name_zh": "苏丹",
+    "calling_code": "+249",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "091 123 1234",
+    "example_international": "+249 91 123 1234",
+    "example_e164": "+249911231234"
+  },
+  {
+    "iso": "SR",
+    "name_en": "Suriname",
+    "name_zh": "苏里南",
+    "calling_code": "+597",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "741-2345",
+    "example_international": "+597 741 2345",
+    "example_e164": "+5977412345"
+  },
+  {
+    "iso": "SJ",
+    "name_en": "Svalbard & Jan Mayen",
+    "name_zh": "斯瓦尔巴和扬马延",
+    "calling_code": "+47",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "41 23 45 67",
+    "example_international": "+47 41 23 45 67",
+    "example_e164": "+4741234567"
+  },
+  {
+    "iso": "SE",
+    "name_en": "Sweden",
+    "name_zh": "瑞典",
+    "calling_code": "+46",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "070-123 45 67",
+    "example_international": "+46 70 123 45 67",
+    "example_e164": "+46701234567"
+  },
+  {
+    "iso": "CH",
+    "name_en": "Switzerland",
+    "name_zh": "瑞士",
+    "calling_code": "+41",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "078 123 45 67",
+    "example_international": "+41 78 123 45 67",
+    "example_e164": "+41781234567"
+  },
+  {
+    "iso": "SY",
+    "name_en": "Syria",
+    "name_zh": "叙利亚",
+    "calling_code": "+963",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0944 567 890",
+    "example_international": "+963 944 567 890",
+    "example_e164": "+963944567890"
+  },
+  {
+    "iso": "TW",
+    "name_en": "Taiwan",
+    "name_zh": "台湾",
+    "calling_code": "+886",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0912 345 678",
+    "example_international": "+886 912 345 678",
+    "example_e164": "+886912345678"
+  },
+  {
+    "iso": "TJ",
+    "name_en": "Tajikistan",
+    "name_zh": "塔吉克斯坦",
+    "calling_code": "+992",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "91 712 3456",
+    "example_international": "+992 91 712 3456",
+    "example_e164": "+992917123456"
+  },
+  {
+    "iso": "TZ",
+    "name_en": "Tanzania",
+    "name_zh": "坦桑尼亚",
+    "calling_code": "+255",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0621 234 567",
+    "example_international": "+255 621 234 567",
+    "example_e164": "+255621234567"
+  },
+  {
+    "iso": "TH",
+    "name_en": "Thailand",
+    "name_zh": "泰国",
+    "calling_code": "+66",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "081 234 5678",
+    "example_international": "+66 81 234 5678",
+    "example_e164": "+66812345678"
+  },
+  {
+    "iso": "TL",
+    "name_en": "Timor-Leste",
+    "name_zh": "东帝汶",
+    "calling_code": "+670",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "7721 2345",
+    "example_international": "+670 7721 2345",
+    "example_e164": "+67077212345"
+  },
+  {
+    "iso": "TG",
+    "name_en": "Togo",
+    "name_zh": "多哥",
+    "calling_code": "+228",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "90 11 23 45",
+    "example_international": "+228 90 11 23 45",
+    "example_e164": "+22890112345"
+  },
+  {
+    "iso": "TK",
+    "name_en": "Tokelau",
+    "name_zh": "托克劳",
+    "calling_code": "+690",
+    "national_prefix": "",
+    "mobile_lengths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "7290",
+    "example_international": "+690 7290",
+    "example_e164": "+6907290"
+  },
+  {
+    "iso": "TO",
+    "name_en": "Tonga",
+    "name_zh": "汤加",
+    "calling_code": "+676",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "771 5123",
+    "example_international": "+676 771 5123",
+    "example_e164": "+6767715123"
+  },
+  {
+    "iso": "TT",
+    "name_en": "Trinidad & Tobago",
+    "name_zh": "特立尼达和多巴哥",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(868) 291-1234",
+    "example_international": "+1 868 291 1234",
+    "example_e164": "+18682911234"
+  },
+  {
+    "iso": "TA",
+    "name_en": "Tristan da Cunha",
+    "name_zh": "特里斯坦-达库尼亚群岛",
+    "calling_code": "+290",
+    "national_prefix": "",
+    "mobile_lengths": [],
+    "mobile_same_as_fixed": true,
+    "example_national": "8999",
+    "example_international": "+290 8999",
+    "example_e164": "+2908999"
+  },
+  {
+    "iso": "TN",
+    "name_en": "Tunisia",
+    "name_zh": "突尼斯",
+    "calling_code": "+216",
+    "national_prefix": "",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "20 123 456",
+    "example_international": "+216 20 123 456",
+    "example_e164": "+21620123456"
+  },
+  {
+    "iso": "TR",
+    "name_en": "Türkiye",
+    "name_zh": "土耳其",
+    "calling_code": "+90",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0501 234 56 78",
+    "example_international": "+90 501 234 56 78",
+    "example_e164": "+905012345678"
+  },
+  {
+    "iso": "TM",
+    "name_en": "Turkmenistan",
+    "name_zh": "土库曼斯坦",
+    "calling_code": "+993",
+    "national_prefix": "8",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "8 66 123456",
+    "example_international": "+993 66 123456",
+    "example_e164": "+99366123456"
+  },
+  {
+    "iso": "TC",
+    "name_en": "Turks & Caicos Islands",
+    "name_zh": "特克斯和凯科斯群岛",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "(649) 231-1234",
+    "example_international": "+1 649 231 1234",
+    "example_e164": "+16492311234"
+  },
+  {
+    "iso": "TV",
+    "name_en": "Tuvalu",
+    "name_zh": "图瓦卢",
+    "calling_code": "+688",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6,
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "90 1234",
+    "example_international": "+688 90 1234",
+    "example_e164": "+688901234"
+  },
+  {
+    "iso": "VI",
+    "name_en": "U.S. Virgin Islands",
+    "name_zh": "美属维尔京群岛",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(340) 642-1234",
+    "example_international": "+1 340 642 1234",
+    "example_e164": "+13406421234"
+  },
+  {
+    "iso": "UG",
+    "name_en": "Uganda",
+    "name_zh": "乌干达",
+    "calling_code": "+256",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0712 345678",
+    "example_international": "+256 712 345678",
+    "example_e164": "+256712345678"
+  },
+  {
+    "iso": "UA",
+    "name_en": "Ukraine",
+    "name_zh": "乌克兰",
+    "calling_code": "+380",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "050 123 4567",
+    "example_international": "+380 50 123 4567",
+    "example_e164": "+380501234567"
+  },
+  {
+    "iso": "AE",
+    "name_en": "United Arab Emirates",
+    "name_zh": "阿拉伯联合酋长国",
+    "calling_code": "+971",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "050 123 4567",
+    "example_international": "+971 50 123 4567",
+    "example_e164": "+971501234567"
+  },
+  {
+    "iso": "GB",
+    "name_en": "United Kingdom",
+    "name_zh": "英国",
+    "calling_code": "+44",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "07400 123456",
+    "example_international": "+44 7400 123456",
+    "example_e164": "+447400123456"
+  },
+  {
+    "iso": "US",
+    "name_en": "United States",
+    "name_zh": "美国",
+    "calling_code": "+1",
+    "national_prefix": "1",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": true,
+    "example_national": "(201) 555-0123",
+    "example_international": "+1 201 555 0123",
+    "example_e164": "+12015550123"
+  },
+  {
+    "iso": "UY",
+    "name_en": "Uruguay",
+    "name_zh": "乌拉圭",
+    "calling_code": "+598",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      8
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "094 231 234",
+    "example_international": "+598 94 231 234",
+    "example_e164": "+59894231234"
+  },
+  {
+    "iso": "UZ",
+    "name_en": "Uzbekistan",
+    "name_zh": "乌兹别克斯坦",
+    "calling_code": "+998",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "91 234 56 78",
+    "example_international": "+998 91 234 56 78",
+    "example_e164": "+998912345678"
+  },
+  {
+    "iso": "VU",
+    "name_en": "Vanuatu",
+    "name_zh": "瓦努阿图",
+    "calling_code": "+678",
+    "national_prefix": "",
+    "mobile_lengths": [
+      7
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "591 2345",
+    "example_international": "+678 591 2345",
+    "example_e164": "+6785912345"
+  },
+  {
+    "iso": "VA",
+    "name_en": "Vatican City",
+    "name_zh": "梵蒂冈",
+    "calling_code": "+39",
+    "national_prefix": "",
+    "mobile_lengths": [
+      9,
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "312 345 6789",
+    "example_international": "+39 312 345 6789",
+    "example_e164": "+393123456789"
+  },
+  {
+    "iso": "VE",
+    "name_en": "Venezuela",
+    "name_zh": "委内瑞拉",
+    "calling_code": "+58",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      10
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0412-1234567",
+    "example_international": "+58 412 1234567",
+    "example_e164": "+584121234567"
+  },
+  {
+    "iso": "VN",
+    "name_en": "Vietnam",
+    "name_zh": "越南",
+    "calling_code": "+84",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0912 345 678",
+    "example_international": "+84 912 345 678",
+    "example_e164": "+84912345678"
+  },
+  {
+    "iso": "WF",
+    "name_en": "Wallis & Futuna",
+    "name_zh": "瓦利斯和富图纳",
+    "calling_code": "+681",
+    "national_prefix": "",
+    "mobile_lengths": [
+      6
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "82 12 34",
+    "example_international": "+681 82 12 34",
+    "example_e164": "+681821234"
+  },
+  {
+    "iso": "EH",
+    "name_en": "Western Sahara",
+    "name_zh": "西撒哈拉",
+    "calling_code": "+212",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "06 50 12 34 56",
+    "example_international": "+212 6 50 12 34 56",
+    "example_e164": "+212650123456"
+  },
+  {
+    "iso": "YE",
+    "name_en": "Yemen",
+    "name_zh": "也门",
+    "calling_code": "+967",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "0712 345 678",
+    "example_international": "+967 712 345 678",
+    "example_e164": "+967712345678"
+  },
+  {
+    "iso": "ZM",
+    "name_en": "Zambia",
+    "name_zh": "赞比亚",
+    "calling_code": "+260",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "095 5123456",
+    "example_international": "+260 95 5123456",
+    "example_e164": "+260955123456"
+  },
+  {
+    "iso": "ZW",
+    "name_en": "Zimbabwe",
+    "name_zh": "津巴布韦",
+    "calling_code": "+263",
+    "national_prefix": "0",
+    "mobile_lengths": [
+      9
+    ],
+    "mobile_same_as_fixed": false,
+    "example_national": "071 234 5678",
+    "example_international": "+263 71 234 5678",
+    "example_e164": "+263712345678"
+  }
+]

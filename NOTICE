@@ -1,0 +1,13 @@
+This repository contains data generated from third-party sources:
+
+- libphonenumber-js (MIT License)
+  Copyright (c) 2016 @catamphetamine
+  https://gitlab.com/catamphetamine/libphonenumber-js
+
+- Google libphonenumber metadata, from which libphonenumber-js is derived
+  (Apache License 2.0)
+  Copyright (C) Google Inc.
+  https://github.com/google/libphonenumber
+
+- Region names are produced by the JavaScript runtime's Intl.DisplayNames,
+  which uses Unicode CLDR data (Unicode License).
